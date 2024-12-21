@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate frontend developer and a tech enthusiast from India</h3>
+<h3 align="center">A passionate Full-stack developer and a tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravksingh25&label=Profile%20views&color=0e75b6&style=flat" alt="gauravksingh25" /> </p>
