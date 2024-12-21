@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **creating Neural network using javascript**
 
-- 🌱 I’m currently learning **React,Express.js,Sql,Python**
+- 🌱 I’m currently learning **React,Express.js,Sql,API's,NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravKsingh25](https://github.com/gauravKsingh25)
 
-- 💬 Ask me about **React,java ,Dsa,viet**
+- 💬 Ask me about **React,java ,Dsa,viet,Javascript,API calls**
 
 - 📫 How to reach me **gauravsingh10.vns@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PxBAIPUMlY5Y10oRfmYFVlV1hBttcClU/view?usp=sharing](https://drive.google.com/file/d/1PxBAIPUMlY5Y10oRfmYFVlV1hBttcClU/view?usp=sharing)
 
-- ⚡ Fun fact **I think i have a superhuman brain**
+- ⚡ Fun fact **Iam a PullStack developer I somehow Pull things off**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
